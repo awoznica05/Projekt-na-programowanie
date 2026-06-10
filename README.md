@@ -9,5 +9,5 @@ Użyte modele:<br>
 Regresja liniowa<br>
 Random Forest<br>
 Wyniki:<br>
-Mniejszy błąd średniokwadratowy popełnił model Random Forest (rmse = 2.29), a w przypadku Regresji Liniowej wyniósł on aż 6.34.<br>
+Mniejsze RMSE ma model Random Forest (rmse = 2.29), a w przypadku Regresji Liniowej wyniósł on aż 6.34.<br>
 Wniosek: Random Forest lepiej się sprawdza w przewidywaniu ocen uczniów na podstawie danych behawioralnych.<br>
